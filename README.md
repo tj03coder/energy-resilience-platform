@@ -213,4 +213,4 @@ procurement system integration; Monte Carlo-style parallel scenario stress-testi
 *Built for [OOSC 4.0 Hackathon] — data grounded in GDELT and U.S. EIA open datasets.*
 ## Team Members
 * [Tisha Jain](https://github.com/)tj03coder)
-* [Yukta Kumari](https://github.com/teammate-username)
+* [Yukta Kumari](https://github.com/gokulyukta-hub)
