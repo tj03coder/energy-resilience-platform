@@ -4,8 +4,7 @@ An AI-powered system that **continuously monitors geopolitical and logistics ris
 scenarios and their economic impact**, and **generates executable procurement rerouting recommendations**
 for the energy/oil supply chain.
 
-🔗 **Live demo:** https://5pdd88.csb.app
-*(hosted on CodeSandbox if the link is slow to load, it's waking up from idle; give it a few seconds)*
+🔗 **Live demo:** https://energy-resilience-platform.vercel.app/
 
 ---
 
